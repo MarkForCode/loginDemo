@@ -1,7 +1,5 @@
-.vscode/
 node_modules/
 log/
-server/
 uploads/
 coverage/
 package-lock.json
